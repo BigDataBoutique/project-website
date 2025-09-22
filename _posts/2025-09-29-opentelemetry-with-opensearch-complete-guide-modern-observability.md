@@ -1,4 +1,16 @@
-# OpenTelemetry with OpenSearch: A Complete Guide to Modern Observability
+---
+layout: post
+title:  "OpenTelemetry with OpenSearch: A Complete Guide to Modern Observability"
+authors:
+ - synhershko
+date: 2025-09-29
+categories: open-telemetry,observability
+meta_keywords:
+meta_description:
+excerpt: OpenSearch Benchmark 2.0 redefines the benchmarking experience and introduces long-awaited features that offer users the essential tools needed to measure, track, and optimize OpenSearch performance.
+has_math: False
+has_science_table: False
+---
 
 Modern distributed systems require comprehensive observability to understand performance bottlenecks, track errors, and maintain optimal user experiences. OpenTelemetry has emerged as the industry standard for observability, providing a vendor-neutral framework for collecting logs, metrics, and traces from applications. When combined with OpenSearch's powerful search and analytics capabilities, organizations can achieve end-to-end visibility across their entire technology stack.
 
